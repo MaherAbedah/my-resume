@@ -47,10 +47,10 @@ li{
     font-size:12px;
 }
 .image img{
-    width:140%; /* اimage size*/
+    width:118%; /* اimage size*/
     position:absolute;
-    right:-27px; /* اimage location*/
-    top: -10px;
+    right:-10px; /* اimage location*/
+    top: -30px;
 }
 .cv_image,
 .image{
